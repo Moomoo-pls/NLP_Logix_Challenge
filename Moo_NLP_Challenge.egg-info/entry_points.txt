@@ -1,0 +1,5 @@
+[console_scripts]
+challenge-1 = Moo_NLP_test.challenge1:challenge
+challenge-4 = Moo_NLP_test.challenge4:generateCSV
+challenge-5 = Moo_NLP_test.challenge5:ripAndSave
+

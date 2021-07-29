@@ -1,0 +1,22 @@
+Metadata-Version: 1.0
+Name: Moo-NLP-Challenge
+Version: 1.0.0
+Summary: Challenges 1, 4, and 5 for the take home coding challenge
+Home-page: https://github.com/Moomoo-pls/NLP_Logix_Challenge
+Author: Stephen Moo-Young
+Author-email: mooyoung12@gmail.com
+License: UNKNOWN
+Description: You will need to pull down this repository, as it contains the CSV necessary to run challenge 1 as well as the virtual environment.
+        
+        The dependencies for this package are provided in the virtual environment associated with this repo.
+        Meaning, there's no need to pip install anything for this to run, you can just source NLP_Logix_Challenge/bin/activate
+        Everything has already been installed locally into the virtual environment provided.
+        Once the virtual environment is activated, you can then just run the files as console commands.
+        
+        
+        challenge-1 will require you to be in a directory that has the challengeCSV directory and Appeals_Filed_In_2017.csv file in that directory.
+        The repository has this by default, but if you were wanting to run this command anywhere else, you could copy the directory elsewhere.
+        
+        challenge-4 will generate the CSV in the current directory you are calling it from.
+        challenge-5 will generate the html in the current directory you are calling it from.
+Platform: UNKNOWN

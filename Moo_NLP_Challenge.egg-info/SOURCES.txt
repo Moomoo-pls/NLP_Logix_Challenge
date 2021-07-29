@@ -1,0 +1,10 @@
+setup.py
+Moo_NLP_Challenge.egg-info/PKG-INFO
+Moo_NLP_Challenge.egg-info/SOURCES.txt
+Moo_NLP_Challenge.egg-info/dependency_links.txt
+Moo_NLP_Challenge.egg-info/entry_points.txt
+Moo_NLP_Challenge.egg-info/top_level.txt
+Moo_NLP_test/__init__.py
+Moo_NLP_test/challenge1.py
+Moo_NLP_test/challenge4.py
+Moo_NLP_test/challenge5.py
