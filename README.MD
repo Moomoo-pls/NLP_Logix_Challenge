@@ -16,3 +16,5 @@ The repository has this by default, but if you were wanting to run this command 
 challenge-4 will generate the CSV in the current directory you are calling it from.
 
 challenge-5 will generate the html in the current directory you are calling it from.
+
+The source code for all 3 of the challenge files will be located in the Moo_NLP_test folder inside of this repository.
