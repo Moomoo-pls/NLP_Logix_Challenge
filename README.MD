@@ -14,4 +14,5 @@ challenge-1 will require you to be in a directory that has the challengeCSV dire
 The repository has this by default, but if you were wanting to run this command anywhere else, you could copy the directory elsewhere.
 
 challenge-4 will generate the CSV in the current directory you are calling it from.
+
 challenge-5 will generate the html in the current directory you are calling it from.
