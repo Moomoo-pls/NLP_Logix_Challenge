@@ -20,7 +20,7 @@ def getRowAmount():
 def addition():
     '''
     Add a new column to the CSV computed from two other column values
-    For this CSV it is Acronym-Exam No. in that format
+    For this CSV it is Acronym-Appeal Type in that format
     '''
     data["Acronym-Appeal Type"] = data["Acronym"] + "-" + data["Appeal Type"]
     data.to_csv("challenge1.csv", index=False)
